@@ -2,7 +2,7 @@
 
 namespace CSharp_Abstracting_Shape
 {
-    abstract class Shape
+    public abstract class GeometricShape 
     {
         public abstract double perimeter();
         public abstract double area();

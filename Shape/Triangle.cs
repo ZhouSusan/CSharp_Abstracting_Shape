@@ -15,7 +15,7 @@ namespace CSharp_Abstracting_Shape.Shape
         public Triangle(double num1, double num2, double num3)
         {
             _num1 = num1;
-            _num2 = num3;
+            _num2 = num2;
             _num3 = num3;
         }
         public override double area()
